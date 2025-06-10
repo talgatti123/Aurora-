@@ -30,3 +30,6 @@ O projeto Aurora foi desenvolvido como projeto da faculdade de Engenharia da Com
 ![Notificacoes](https://github.com/user-attachments/assets/3854e244-2837-4c4e-aafe-54d80f3921d4)
 ![Lembretes](https://github.com/user-attachments/assets/21b808ac-3b94-4181-90cc-297266f5de08)
 ![Agenda](https://github.com/user-attachments/assets/5e63c4fc-9f69-40dc-be23-2604ea0d0344)
+![IA](https://github.com/user-attachments/assets/d0cd00eb-4ffa-4b55-85c8-5ac3dba46f69)
+
+> ⚠️ O código-fonte está em repositório privado. Caso tenha interesse técnico, entre em contato.
